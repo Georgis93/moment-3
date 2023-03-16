@@ -1,0 +1,37 @@
+.boxclass{
+    background-color: green;
+    border:solid 5px grey;
+    position:absolute;
+    width: 180px;
+    height: 50px;
+    align-items: center;
+}
+#box1{
+    left: 20px;
+    top: 80px;
+    z-index: 1;
+    color:blue;
+    background-color: yellow;
+    
+    
+}
+#box2{
+    left: 90px;
+    top:  35px;
+    z-index: 2;
+    color: red;
+    background-color: cyan;
+ 
+   
+    
+}
+#box3{
+    left: 65px;
+    top:  70px;
+    z-index: 0;
+    color: black;
+    background-color: green;
+    
+    
+    
+}
